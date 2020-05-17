@@ -1,2 +1,3 @@
 # UBC-UAS
-Some of the code from UBC Unmanned Aircraft Systems (UAS)
+Some of my code contributions for UBC Unmanned Aircraft Systems (UAS)
+The full repository is a private gitlab repo
